@@ -9,7 +9,7 @@ https://www.elitepvpers.com/forum/coding-releases/4384005-rust-cheat-source.html
 because github make me salty, can't upload the other files, here you go
 +drivers
 +include
-https://mega.nz/#!1bhl1Yza!cqWtBIjGCeFiV98QSgoexHFgPd4V0sbzLcAni9Czwcs
+
 
 Some EAC stuff is deleted.
 Smaller things need to be updated.
