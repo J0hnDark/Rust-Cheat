@@ -5,6 +5,7 @@ https://www.elitepvpers.com/forum/members/5537454-apflmus.html
 https://www.elitepvpers.com/forum/coding-releases/4384005-rust-cheat-source.html
 
 unknowncheats:
+https://www.unknowncheats.me/forum/members/2144621.html
 
 Some stuff is deleted.
 Smaller things need to be updated.
